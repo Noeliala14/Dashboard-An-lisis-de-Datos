@@ -39,7 +39,7 @@ El archivo de Excel (2030-Registros-de-ventas FINAL.xlsx) contiene el dashboard 
 
 # Conclusiones del Análisis
 Beneficios: El análisis muestra que, a pesar de las fluctuaciones en las ventas, el negocio mantiene una rentabilidad positiva, con un beneficio total de 
-# [778.449.206 €].#
+*778.449.206 €*.
 
 Rendimiento por zona: La zona de *Africa* es la más rentable, lo que podría justificar una mayor inversión en esa área.
 
